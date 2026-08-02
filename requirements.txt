@@ -1,1 +1,10 @@
-# No external dependencies required
+
+streamlit
+groq
+python-dotenv
+wikipedia
+ddgs
+sentence-transformers
+scikit-learn
+torch
+numpy
