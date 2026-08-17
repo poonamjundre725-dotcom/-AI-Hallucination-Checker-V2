@@ -6,3 +6,4 @@ ddgs
 numpy
 sentence-transformers
 scikit-learn
+torchvision
