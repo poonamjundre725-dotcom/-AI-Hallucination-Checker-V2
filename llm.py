@@ -8,8 +8,7 @@ client = Groq(
 def ask_gemini(question):
 
     response = client.chat.completions.create(
-        # Updated to the current active Groq model
-        model="gpt-oss-20b", 
+        model="llama-3.1-8b-instant", 
         messages=[
             {
                 "role": "user",
